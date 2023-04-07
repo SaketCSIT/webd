@@ -1,0 +1,31 @@
+h1
+{
+    text-align: center;
+    margin-bottom: 82px;
+    margin-top:25px ;
+}
+body
+{
+    background-color:white;
+    
+}
+.main
+{
+    
+    /* border-radius: 55px; */
+    margin-right: 45px;
+    margin-left: 45px;
+    margin-top: -45px;
+    border-top-left-radius: 15px;
+    overflow: hidden;
+}
+
+.border
+{
+    text-align: center;
+    background-color: yellow;
+    border-radius: 45px;
+    border-color: yellow;
+    margin-bottom: 85px;
+    font-size: 45px;
+}
